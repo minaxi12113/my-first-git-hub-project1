@@ -1,3 +1,4 @@
 test for push
 git changes
 git pull
+git status
